@@ -1,0 +1,150 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "Sample",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Passcode",
+      "request": "launch",
+      "mainClass": "Passcode",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Sorted",
+      "request": "launch",
+      "mainClass": "Sorted",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Matrix",
+      "request": "launch",
+      "mainClass": "Matrix",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Ins",
+      "request": "launch",
+      "mainClass": "Ins",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "InsertionSort",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Hellooo",
+      "request": "launch",
+      "mainClass": "Hellooo",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Uper",
+      "request": "launch",
+      "mainClass": "Uper",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "BigInteger1",
+      "request": "launch",
+      "mainClass": "BigInteger1",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Gfg",
+      "request": "launch",
+      "mainClass": "Gfg",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "LargeNumberFact",
+      "request": "launch",
+      "mainClass": "LargeNumberFact",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Stack1",
+      "request": "launch",
+      "mainClass": "Stack1",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "AccountBalance",
+      "request": "launch",
+      "mainClass": "Mypack.AccountBalance",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "CharC",
+      "request": "launch",
+      "mainClass": "CharC",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Eney",
+      "request": "launch",
+      "mainClass": "Eney",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Override",
+      "request": "launch",
+      "mainClass": "Override",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "LinkedLi",
+      "request": "launch",
+      "mainClass": "LinkedLi",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Serverth",
+      "request": "launch",
+      "mainClass": "Serverth",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/java",
+      "program": "d:/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
